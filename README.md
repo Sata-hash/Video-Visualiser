@@ -7,3 +7,6 @@ For Live Demo-->https://video-visualiser.vercel.app
 - Visualize the audio (wavesurfer.js)
 - Metadata of the video
 - ReactJS + Tailwind CSS
+  
+#CopyRight:Satavisa Das
+
