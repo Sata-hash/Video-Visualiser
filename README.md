@@ -8,5 +8,5 @@ For Live Demo-->https://video-visualiser.vercel.app
 - Metadata of the video
 - ReactJS + Tailwind CSS
   
-#CopyRight:Satavisa Das
+# CopyRight-->Satavisa Das
 
