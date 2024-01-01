@@ -1,7 +1,7 @@
 # Video Visualizer - Made with ReactJS
 For Live Demo-->https://video-visualiser.vercel.app
 
-![image](https://github.com/dipayansarkar47/video-visualizer/assets/77672753/15780db7-2416-4ea9-9b59-3f554930a4f5)
+![playing](https://github.com/Sata-hash/Video-Visualiser/assets/142712421/ca834755-5cfa-4d46-85ad-7c0a1eaaeb25)
 
 # 🚀 Features:
 - Visualize the audio (wavesurfer.js)
